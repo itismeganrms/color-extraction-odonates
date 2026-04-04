@@ -1,0 +1,12 @@
+[submodule "external/mask-rcnn-dragonfly"]
+	path = external/mask-rcnn-dragonfly
+	url = https://github.com/itismeganrms/Mask-RCNN.git
+[submodule "external/mask2former-dragonfly"]
+	path = external/mask2former-dragonfly
+	url = https://github.com/itismeganrms/Mask2Former.git
+[submodule "external/maskdino-dragonfly"]
+	path = external/maskdino-dragonfly
+	url = https://github.com/itismeganrms/MaskDINO.git
+[submodule "external/dragonfly-formulier"]
+	path = external/dragonfly-formulier
+	url = https://github.com/itismeganrms/dragonfly-formulier.git
